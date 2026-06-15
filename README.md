@@ -159,7 +159,7 @@ python QueryLoyaltyPoints.py
 ## 合約地址 (Sepolia)
 
 ```
-（部署後填入合約地址）
+0xd2265fCBC1678Ec70b40dB3da33C5149aE444838
 ```
 
 可於 Etherscan 查詢：
